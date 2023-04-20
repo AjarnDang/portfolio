@@ -146,7 +146,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Julu 2020 - November 2021",
     points: [
-      "Developing web applications using HTML, CSS and other related technologies.",
+      "Developing web applications using HTML, CSS and JS.",
       "A single project with the entire system architecture design and development.",
     ],
   },
@@ -157,8 +157,8 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "November 2021 - October 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Developing and maintaining web applications using PHP, MySQL and other related technologies.",
+      "Collaborating with cross-functional teams including frontend and backend developers",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
@@ -170,8 +170,8 @@ const experiences = [
     iconBg: "#FFFFFF",
     date: "November 2022 - March 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Developing and maintaining web applications using React.js, Node.js and other related technologies.",
+      "Collaborating with cross-functional teams including designers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
