@@ -157,14 +157,14 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "November 2021 - October 2022",
     points: [
-      "Developing and maintaining web applications using PHP, MySQL and other related technologies.",
+      "Developing web applications using PHP, MySQL and other related technologies.",
       "Collaborating with cross-functional teams including frontend and backend developers",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
   {
-    title: "React JS Developer",
+    title: "React JS Developer (Intern)",
     company_name: "Metro Systems Coporation Plc.",
     icon: metro,
     iconBg: "#FFFFFF",
@@ -194,27 +194,27 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "I thought it was impossible to make a website as beautiful as our product, but he proved me wrong.",
+    name: "Pornatcha O.",
+    designation: "College Collaborator",
+    company: "Rajamangala University (Khon Kaen)",
+    image: "https://cdn-icons-png.flaticon.com/512/149/149071.png",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "I've never met a web developer who truly cares about their clients' success like he does.",
+    name: "Jaturong J.",
+    designation: "College Collaborator",
+    company: "Khon Kaen University",
+    image: "https://cdn-icons-png.flaticon.com/512/149/149071.png",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "He create a great design website and I was very pleased to see it.",
+    name: "Nattarat K.",
+    designation: "College Collaborator",
+    company: "Khon Kaen University",
+    image: "https://cdn-icons-png.flaticon.com/512/149/149071.png",
   },
 ];
 
