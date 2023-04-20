@@ -66,7 +66,7 @@ const Contact = () => {
 
   return (
     <div
-      className={`xl:mt-12 flex xl:flex-row flex-col-reverse gap-10 overflow-hidden`}
+      className={`xl:mt-12 xl:mb-12 flex xl:flex-row flex-col-reverse gap-10 overflow-hidden`}
     >
       <motion.div
         variants={slideIn("left", "tween", 0.2, 1)}
@@ -75,7 +75,7 @@ const Contact = () => {
         <p className={styles.sectionSubText}>Get in touch</p>
         <h3 className={styles.sectionHeadText}>Contact.</h3>
 
-        <form
+        {/* <form
           ref={formRef}
           onSubmit={handleSubmit}
           className='mt-12 flex flex-col gap-8'
@@ -120,7 +120,10 @@ const Contact = () => {
           >
             {loading ? "Sending..." : "Send"}
           </button>
-        </form>
+        </form> */}
+        <p className="mt-4"><span className={styles.sectionSubText}>Tel :</span> 061-026-6997</p>
+        <p className="mt-2"><span className={styles.sectionSubText}>Email : </span>torntan.j@gmail.com</p>
+        <p className="mt-2"><span className={styles.sectionSubText}>Address : </span>Khon Kaen, 40000 Thailand</p>
       </motion.div>
 
       <motion.div

@@ -72,5 +72,5 @@ export {
   mysql,
   cpkku,
   scikku,
-  metro
+  metro,
 };
