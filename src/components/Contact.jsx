@@ -6,6 +6,8 @@ import { styles } from "../styles";
 import { EarthCanvas } from "./canvas";
 import { SectionWrapper } from "../hoc";
 import { slideIn } from "../utils/motion";
+import { FaFacebook, FaInstagram, FaYoutube, FaTwitch } from "react-icons/fa";
+
 
 const Contact = () => {
   const formRef = useRef();
@@ -124,6 +126,45 @@ const Contact = () => {
         <p className="mt-4"><span className={styles.sectionSubText}>Tel :</span> 061-026-6997</p>
         <p className="mt-2"><span className={styles.sectionSubText}>Email : </span>torntan.j@gmail.com</p>
         <p className="mt-2"><span className={styles.sectionSubText}>Address : </span>Khon Kaen, 40000 Thailand</p>
+        <span className="inline-flex mt-12">
+          <a href="https://web.facebook.com/profile.php?id=100044497928864" target="__blank">
+        <FaFacebook
+          style={{
+            width:"40px",
+            height:"40px",
+          }}  
+          className="mr-4"     
+         />
+         </a>
+         <a href="https://www.instagram.com/Brandthron/?fbclid=IwAR1clbvt7e6XAcCD6anSxfVrrwyKLWs5_NkN96dVBZNdsc-0ki7UBwirXwc" target="__blank">
+         <FaInstagram
+          style={{
+            width:"40px",
+            height:"40px",
+          }} 
+          className="mr-4"     
+         />
+         </a>
+         <a href="https://www.twitch.tv/l34nny" target="__blank">
+         <FaTwitch
+          style={{
+            width:"40px",
+            height:"40px",
+          }} 
+          className="mr-4"     
+         />
+         </a>
+         <a href="https://www.youtube.com/channel/UC8T4F0fNvCg7nKxSbnPKBSg" target="__blank">
+         <FaYoutube
+          style={{
+            width:"40px",
+            height:"40px",
+          }} 
+          className="mr-4"     
+         />
+         </a>        
+         </span>
+        
       </motion.div>
 
       <motion.div
