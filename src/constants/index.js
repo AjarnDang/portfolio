@@ -146,7 +146,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Julu 2020 - November 2021",
     points: [
-      "Developing web applications using HTML, CSS and JS.",
+      "Developing web applications using HTML, CSS and JS and other related technologies.",
       "A single project with the entire system architecture design and development.",
     ],
   },
